@@ -66,3 +66,17 @@ a {
   padding: 50px;
 }
 
+a{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+:root{
+--background-color: #FFFFF7;
+--color: #444444;
+--color-button: #1D628B;
+--color-label:  #73B1D6;
+--color-input: #4589B0;
+}
